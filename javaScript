@@ -1,0 +1,28 @@
+
+<head>
+    <title>WEB - html</title>
+    <meta charset="utf-8">
+    
+    
+    
+    <ol>
+        <li><a href="2.html" >html</a></li>
+        <li><a href="css" >css</a></li>
+        <li><a href="javaScript" >javaScript</a></li>
+    
+    </head>
+    
+    </ol>
+    <h1>HTML</h1>
+    <strong><u>creating web pages</u></strong> 
+    <h1>Beetles</h1>
+        <h2>External morphology</h2>
+            <h3>Head</h3>
+                 <h4>Mouthparts</h4>
+            <h3>Thorax</h3>
+                <h4>Prothorax</h4>
+                <h4>Pterothorax</h4>
+    
+    
+    
+
